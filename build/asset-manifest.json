@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94430392.chunk.css",
+    "main.js": "/static/js/main.04f73dc3.chunk.js",
+    "main.js.map": "/static/js/main.04f73dc3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8b91b49a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8b91b49a.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.17251ac4.chunk.js": "/static/js/2.17251ac4.chunk.js",
+    "static/js/2.17251ac4.chunk.js.map": "/static/js/2.17251ac4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.10ed9e5b353272a05ab5d1e70c38d846.js": "/precache-manifest.10ed9e5b353272a05ab5d1e70c38d846.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.94430392.chunk.css.map": "/static/css/main.94430392.chunk.css.map",
+    "static/js/2.17251ac4.chunk.js.LICENSE.txt": "/static/js/2.17251ac4.chunk.js.LICENSE.txt",
+    "static/media/ByIngredient.jpg": "/static/media/ByIngredient.351252ac.jpg",
+    "static/media/Mealday-logo.png": "/static/media/Mealday-logo.baf6a287.png",
+    "static/media/Surprise.jpg": "/static/media/Surprise.0bb61eaa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b91b49a.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.17251ac4.chunk.js",
+    "static/css/main.94430392.chunk.css",
+    "static/js/main.04f73dc3.chunk.js"
+  ]
+}
